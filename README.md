@@ -24,6 +24,7 @@ Hi, I'm Mariam!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wobin-sanou-b895131b7) 
+[![Personnal Website](https://static-cse.canva.com/_next/static/assets/logo_w2000xh641_549791f627e17b8cd987be08a60dbd049233a0e4395c6b32b601cd6abbfcdcc1.png)](https://showoffgorjuss-z.my.canva.site/wobinmariamsanou) 
 
 
 # 💻 Tech Stack:
