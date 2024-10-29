@@ -5,7 +5,7 @@ Hi, I'm Mariam!
 <br>I'm currently a senior pursuing a BA in Computer Science at the University at Albany, with minors in Informatics, Psychology, and Theater. I’m passionate about blending creativity and technology to solve real-world problems, and I’m seeking opportunities as a Software Engineer to continue doing just that!<br>
 
 <br>🔨 Self-Projects I'm Currently Working On:
-<br>       * My Online Portfolio: A fully functional website showcasing my skills, projects, and experiences.
+<br>       * Building a Web: that provide customer support for the company called 'True Corksrew
 
 <br>🛠️ Self-Projects I've Completed:
 <br>       * Prezent Pal: A group project where we created a gift exchange website, similar to Secret Santa. I handled both front-end and back-end development, which solidified my passion for full-stack development.
@@ -19,7 +19,7 @@ Hi, I'm Mariam!
 <br>Tools: GitHub, Visual Studio Code, Eclipse, React, Figma, Sketch
 <br>Platforms: WordPress, Wix, Google Sites, Canva, Squarespace, Notion,
 
-<br>Feel free to explore my repositories and projects below! If you're interested in collaborating or have any opportunities, let’s connect!
+<br>Feel free to explore my repositories and projects below! Let’s connect!
 
 
 ## 🌐 Socials:
