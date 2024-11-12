@@ -6,6 +6,7 @@ Hi, I'm Mariam!
 
 <br>🔨 Self-Projects I'm Currently Working On:
 <br>       * Building a Web: that provide customer support for the company called 'True Corksrew'.
+<br>       * Working on Forage: Participating in different Job Simulations.
 
 <br>🛠️ Self-Projects I've Completed:
 <br>       * Prezent Pal: A group project where we created a gift exchange website, similar to Secret Santa. I handled both front-end and back-end development, which solidified my passion for full-stack development.
