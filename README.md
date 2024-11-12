@@ -10,7 +10,7 @@ Hi, I'm Mariam!
 
 <br>🛠️ Self-Projects I've Completed:
 <br>       * Prezent Pal: A group project where we created a gift exchange website, similar to Secret Santa. I handled both front-end and back-end development, which solidified my passion for full-stack development.
-<br>       * Self Makeup Website on Canva (link)
+<br>       * Self Makeup Website on Canva 
 
 <br>🤝 Collaboration Projects:
 <br>       * Prezent Pal: A team effort that allowed me to develop my project management and collaborative coding skills, working with others to create an innovative web app.
