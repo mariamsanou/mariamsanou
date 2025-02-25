@@ -5,20 +5,24 @@ Hi, I'm Mariam!
 <br>I'm currently a senior pursuing a BA in Computer Science at the University at Albany, with minors in Informatics, Psychology, and Theater. I’m passionate about blending creativity and technology to solve real-world problems, and I’m seeking opportunities as a Software Engineer to continue doing just that!<br>
 
 <br>🔨 Self-Projects I'm Currently Working On:
-<br>       * Building a Web: that provide customer support for the company called 'True Corksrew'.
-<br>       * Working on Forage: Participating in different Job Simulations.
+<br>       * Building a Web Application: FashionDiva is a web application meant to help find trendy outfits with what's in your closet.
+<br>       * Building an App: DormDash is an app for universities to integrate into their dining options. Offering a student delivery service for Students by Students.
 
 <br>🛠️ Self-Projects I've Completed:
 <br>       * Prezent Pal: A group project where we created a gift exchange website, similar to Secret Santa. I handled both front-end and back-end development, which solidified my passion for full-stack development.
-<br>       * Self Makeup Website on Canva 
+<br>       * Self Makeup Website on Canva.
+<br>       * Open Mail a Web Application to send "mail" to pen-pal or significant other.   
 
 <br>🤝 Collaboration Projects:
 <br>       * Prezent Pal: A team effort that allowed me to develop my project management and collaborative coding skills, working with others to create an innovative web app.
+<br>       * FashionDiva: Currently working together to create a fully interactive fashion app. 
+<br>       * DormDash: A team effort to create a Student delivery service where the students are the delivers.
+
 
 <br>🌟 Skills:
 <br>Languages: Java, JavaScript, CSS, HTML, Node.js, 
 <br>Tools: GitHub, Visual Studio Code, Eclipse, React, Figma, Sketch
-<br>Platforms: WordPress, Wix, Google Sites, Canva, Squarespace, Notion,
+<br>Platforms: WordPress, Wix, Google Sites, Canva, Squarespace, Notion, Codepen
 
 <br>Feel free to explore my repositories and projects below! Let’s connect!
 
